@@ -7,7 +7,7 @@
 This repository contains a Tableau dashboard that provides insights into executive retail sales analytics. The dashboard includes key performance metrics such as Year-to-Date (YTD) sales, profit, quantity, and average discount. It also visualizes sales and profit distribution across various dimensions, including region, category, city, and time.
 
 ## Tool used :
-<img src="Images/Power Bi Logo.png" width="300" height="150"/>&nbsp;
+<img src="Tableau logo.png" width="300" height="150"/>&nbsp;
 
 ## Key Insights
 
